@@ -1,4 +1,4 @@
-# Python-Coding-Automated-Parking-Slot
+# Python Coding Automated Parking Slot
 The objective of this project is to develop an automated system for analyzing customer parking slot utilization in a parking facility. The system will utilize various sensors and data processing techniques to monitor parking slots in real-time, collect relevant data, and provide actionable insights to optimize parking space usage, improve customer experience, and enhance operational efficiency.
 Real-time Monitoring: Deploy sensors to detect the occupancy status of individual parking slots in real-time.
 Data Collection: Collect and store data on parking slot occupancy, duration of stay, and frequency of usage.
